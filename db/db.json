@@ -1,0 +1,167 @@
+[
+  {
+    "week": "everytime",
+    "name": "Программирование Лекция",
+    "id": "progLect",
+    "day": "5",
+    "timeStart": "8:30",
+    "timeEnd": "10:00",
+    "teacher": "Давидов",
+    "place": {
+      "location": "VK",
+      "name": "ВК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "2",
+    "name": "Программирование Практика",
+    "id": "progPract",
+    "day": "1",
+    "timeStart": "12:35",
+    "timeEnd": "14:10",
+    "teacher": "Бульба",
+    "place": {
+      "location": "VK",
+      "name": "ВК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "everytime",
+    "name": "Высшая математика Лекция",
+    "id": "mathLect",
+    "day": "5",
+    "timeStart": "10:25",
+    "timeEnd": "12:00",
+    "teacher": "Антонова",
+    "place": {
+      "location": "GAK",
+      "name": "ГАК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "1",
+    "name": "Высшая математика Практика",
+    "id": "mathPract",
+    "day": "1",
+    "timeStart": "12:35",
+    "timeEnd": "14:10",
+    "teacher": "Гайдаш",
+    "place": {
+      "location": "GAK",
+      "name": "ГАК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "everytime",
+    "name": "Высшая математика Практика",
+    "id": "mathPract2",
+    "day": "2",
+    "timeStart": "10:25",
+    "timeEnd": "12:00",
+    "teacher": "Гайдаш",
+    "place": {
+      "location": "GAK",
+      "name": "ГАК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "1",
+    "name": "Дискреткая математика Лекция",
+    "id": " discMathLect",
+    "day": "4",
+    "timeStart": "12:35",
+    "timeEnd": "14:10",
+    "teacher": "Кучук",
+    "place": {
+      "location": "VK",
+      "name": "ВК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "1",
+    "name": "Дискреткая математика Практика",
+    "id": " discMathPract",
+    "day": "3",
+    "timeStart": "10:35",
+    "timeEnd": "22:10",
+    "teacher": "Кучук",
+    "place": {
+      "location": "VK",
+      "name": "ВК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "everytime",
+    "name": "Философия Лекция",
+    "id": "filosLect",
+    "day": "4",
+    "timeStart": "10:25",
+    "timeEnd": "12:00",
+    "teacher": "Мищенко",
+    "place": {
+      "location": "U1",
+      "name": "У1",
+      "latitude": "49.99845477437813",
+      "longitude": "36.2515561417309"
+    }
+  },
+  {
+    "week": "2",
+    "name": "Философия Практика",
+    "id": "filosPract",
+    "day": "3",
+    "timeStart": "12:35",
+    "timeEnd": "14:10",
+    "teacher": "Мищенко",
+    "place": {
+      "location": "U1",
+      "name": "У1",
+      "latitude": "49.99845477437813",
+      "longitude": "36.2515561417309"
+    }
+  },
+  {
+    "week": "everytime",
+    "name": "Алгоритмы Лекция",
+    "id": "algLect",
+    "day": "5",
+    "timeStart": "8:30",
+    "timeEnd": "10:00",
+    "teacher": "Бульба",
+    "place": {
+      "location": "VK",
+      "name": "ВК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  },
+  {
+    "week": "everytime",
+    "name": "Алгоритмы Практика",
+    "id": "algPract",
+    "day": "5",
+    "timeStart": "12:35",
+    "timeEnd": "14:10",
+    "teacher": "Бульба",
+    "place": {
+      "location": "VK",
+      "name": "ВК",
+      "latitude": "50.00101269245416",
+      "longitude": "36.25153446250323"
+    }
+  }
+]
